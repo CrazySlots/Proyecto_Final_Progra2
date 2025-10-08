@@ -1,0 +1,14 @@
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\MaterialSkin.dll
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form2.resources
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\Proyecto.489DB05A.Up2Date
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\diegu\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe.config
