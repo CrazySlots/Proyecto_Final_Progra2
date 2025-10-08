@@ -42,49 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.resx",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Form1.resx",
-              "ToolTip": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.resx",
-              "RelativeToolTip": "ProyectoFinal\\Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-25T01:14:51.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.Designer.cs",
-              "RelativeToolTip": "ProyectoFinal\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T01:07:49.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form2.cs",
-              "RelativeDocumentMoniker": "ProyectoFinal\\Form2.cs",
-              "ToolTip": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form2.cs",
-              "RelativeToolTip": "ProyectoFinal\\Form2.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:41:30.098Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,6 +62,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.resx",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Form1.resx",
+              "ToolTip": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.resx",
+              "RelativeToolTip": "ProyectoFinal\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-25T01:14:51.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.Designer.cs",
+              "RelativeToolTip": "ProyectoFinal\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:07:49.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form2.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Form2.cs",
+              "ToolTip": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form2.cs",
+              "RelativeToolTip": "ProyectoFinal\\Form2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T02:41:30.098Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form2.Designer.cs",
@@ -108,8 +105,7 @@
               "RelativeToolTip": "ProyectoFinal\\Form2.Designer.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAowHMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T02:44:21.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T02:44:21.543Z"
             },
             {
               "$type": "Document",
@@ -121,8 +117,7 @@
               "RelativeToolTip": "ProyectoFinal\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-23T02:44:17.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T02:44:17.279Z"
             },
             {
               "$type": "Document",
@@ -134,8 +129,7 @@
               "RelativeToolTip": "ProyectoFinal\\Form1.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T02:03:48.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T02:03:48.632Z"
             },
             {
               "$type": "Document",
@@ -146,8 +140,7 @@
               "ToolTip": "C:\\Users\\diegu\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Form1.cs [Design]",
               "RelativeToolTip": "ProyectoFinal\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T01:34:14.578Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-23T01:34:14.578Z"
             }
           ]
         }
